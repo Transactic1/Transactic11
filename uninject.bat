@@ -1,0 +1,1 @@
+smi.exe inject -p 1v1_LOL -a Cloud1v1.dll -n Cloud1v1 -c Class1 -m end
